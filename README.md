@@ -1,25 +1,36 @@
+<!-- ========================================================= -->
+<!--                  NIGHAT NASEEM — GITHUB README           -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:06142E,50:0D47A1,75:4F46E5,100:7C3AED&height=230&section=header&text=Nighat%20Naseem&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Generative%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ========================= HERO ========================== -->
 
-</div>
-
-# Hi, I'm Nighat Naseem 👋
-
-### `Software Engineering Student` • `AI Enthusiast` • `Full-Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4F8CFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Generative+AI;Full-Stack+Software+Development;Python+%7C+FastAPI+%7C+Backend;Building+Real-World+AI+Solutions;Turning+Ideas+Into+Innovative+Software;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Nighat%20Naseem&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20GENERATIVE%20AI%20%7C%20FULL-STACK&descAlignY=57&descSize=17&descColor=BFE8FF&animation=twinkling&color=0:010817,15:02152E,30:032B55,45:064E8C,60:075985,75:0C4A6E,88:0E7490,100:0284C7"
+width="100%"
+/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-4F46E5?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python%20%7C%20FastAPI-0284C7?style=for-the-badge&logo=python&logoColor=white"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=60A5FA&center=true&vCenter=true&width=850&height=45&lines=Artificial+Intelligence+%26+Generative+AI;Full-Stack+Software+Development;Python+%7C+FastAPI+%7C+Backend+Engineering;Building+Intelligent+Software+Solutions;Turning+Ideas+Into+Real-World+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating"
+alt="Typing Animation"
+/>
 
 <br><br>
 
-> 💡 **Building intelligent software that transforms ideas into real-world solutions.**
+<img src="https://img.shields.io/badge/AI-020B18?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-06213D?style=for-the-badge&logo=googlegemini&logoColor=7DD3FC"/>
+<img src="https://img.shields.io/badge/FULL--STACK-073763?style=for-the-badge&logo=stackblitz&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/PYTHON-075985?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FASTAPI-0C4A6E?style=for-the-badge&logo=fastapi&logoColor=7DD3FC"/>
+
+<br><br>
+
+> 💙 **Building intelligent software that transforms ideas into real-world solutions.**
+
+<br>
 
 </div>
 
