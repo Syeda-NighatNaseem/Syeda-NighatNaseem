@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06142E,50:0D47A1,100:2563EB&height=230&section=header&text=Nighat%20Naseem&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Generative%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:06142E,50:0D47A1,75:4F46E5,100:7C3AED&height=230&section=header&text=Nighat%20Naseem&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Generative%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
 
 # Hi, I'm Nighat Naseem 👋
 
